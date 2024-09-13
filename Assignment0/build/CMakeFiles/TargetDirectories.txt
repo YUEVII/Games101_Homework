@@ -1,0 +1,3 @@
+/home/taoding/leyi/Games101-Homework-Win/Assignment0/build/CMakeFiles/Transformation.dir
+/home/taoding/leyi/Games101-Homework-Win/Assignment0/build/CMakeFiles/edit_cache.dir
+/home/taoding/leyi/Games101-Homework-Win/Assignment0/build/CMakeFiles/rebuild_cache.dir
